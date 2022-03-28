@@ -1,0 +1,23 @@
+.Login{
+    background-color: rgb(76, 179, 67);
+    width: 315px;
+    height: 40px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.Cancel {
+    background-color: rgb(209, 72, 72);
+    width: 315px;
+    height: 40px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
